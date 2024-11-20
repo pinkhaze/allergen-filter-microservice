@@ -1,0 +1,20 @@
+Spaghetti; Dairy, Gluten
+Grilled Chicken Salad; Nuts, Gluten
+Vegan Brownies; Nuts, Dairy, Gluten
+Peanut Butter Cookies; Dairy, Gluten, Nuts
+Caesar Salad; Dairy, Nuts
+Chocolate Cake; Dairy, Nuts
+Margherita Pizza; Dairy, Gluten
+Fried Rice; Soy, Nuts
+Beef Tacos; Gluten, Dairy
+Quinoa Salad; Nuts
+Fruit Smoothie; Dairy
+Vegetable Stir-Fry; Soy
+Chocolate Chip Cookies; Dairy, Gluten
+Chicken Soup; Gluten
+Greek Yogurt Parfait; Dairy
+Macaroni and Cheese; Dairy, Gluten
+Almond Butter Energy Bars; Nuts
+Gluten-Free Brownies; Dairy
+Rice Pilaf; None
+Hummus and Veggies; None
